@@ -243,7 +243,6 @@ By re-architecting the latent space with **Continuous Harmonic Gating** and util
 This dual architecture—mastering time via Stroboscopic Floquet cycles and mastering space via Grid-Cell anchors—provides a rigorous, first-principles blueprint for scaling hierarchical reasoning models to the billion-parameter frontier.
 
 ---
-**License & Copyright**
+
 Copyright © 2026 Carl Boyer. All rights reserved.
 This work (The P-DEQ Specification and Grid-Cell Topological Anchoring framework) is licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE) file for details.
----
