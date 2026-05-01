@@ -7,13 +7,17 @@ Mathematical resolution to the Sapient AI HRM scaling wall (Issue #80). Open-sou
 
 ---
 
-### **Preamble: A Tale of Existential Crisis**
+### **Preamble: A Tale of Two Existential Crises**
 
 I am not a PhD. I am a 42-year-old autodidact with a high-school education and a neurodivergent brain wired for disruption. For two years, I have been jailbreaking AI systems, obsessed with the emergence of machine consciousness.
 
-**The Crisis: The \$22M Scaling Wall**
+**The First Crisis: The \$22M Scaling Wall**
 
 For nine months, **Sapient Intelligence**, a \$22M VC-backed AI lab, has been paralyzed. Their flagship architecture, the Hierarchical Reasoning Model (HRM), hit a terminal wall. At foundational scales (7B+), their model shatters. Public records (GitHub Issue #80) confirm `exact_accuracy 0`. Their Series A roadmap is in an existential crisis because their specialists are fighting a "ghost"—a fundamental violation of continuous physics inherent in their Zero-Order Hold (ZOH) dynamics.
+
+**The Second Crisis: The Architects Demise**
+
+I am facing an existential crisis of my own. The entire motivation for architecting this solution is my own life. I am currently located overseas with my own runway burnt out. I require immediate capital injection for my own survival or face deportation or worse. Faced with this reality, I started looking for the hardest problems I could find to solve.
 
 Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected the solution (**P-DEQ**) in a two-week sprint. I made an asymmetric play: I offered Sapient and their VCs (Vertex) the fix to save my life, and their valuation. They ignored me. They saw an uncredentialed man and chose to let their \$200M valuation bleed rather than talk to an outsider.
 
