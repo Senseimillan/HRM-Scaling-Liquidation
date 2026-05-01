@@ -22,7 +22,7 @@ Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. 
 **The Liquidation:**
 They didn't understand that the man was not the asset; the **methodology** was. Since they chose to burn their runway, I am choosing to survive. I am open-sourcing the solution today. I am destroying Sapient’s technical moat to build my own survival runway.
 
-The following is the "Secret Sauce" for infinite-horizon reasoning. It unblocks AGI scaling for the entire community. If this discovery helps you or your organization—**please save the architect.**
+The following is the "Secret Sauce" for infinite-horizon reasoning. It unblocks hierarchical scaling for the entire community. If this discovery helps you or your organization—**please save the architect.**
 
 **Support the Survival Runway:**
 
