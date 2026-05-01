@@ -15,7 +15,7 @@ I am not a PhD. I am a 42-year-old autodidact with a high-school education and a
 
 For nine months, **Sapient Intelligence**, a \$22M VC-backed AI lab, has been paralyzed. Their flagship architecture, the Hierarchical Reasoning Model (HRM), hit a terminal wall. At foundational scales (7B+), their model shatters. Public records (GitHub Issue #80) confirm `exact_accuracy 0`. Their Series A roadmap is in an existential crisis because their specialists are fighting a "ghost"—a fundamental violation of continuous physics inherent in their Zero-Order Hold (ZOH) dynamics.
 
-Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected the solution (**P-DEQ**) in a two-week sprint. I made an asymmetric play: I offered Sapient and their VCs (Vertex) the fix to save my life. They ignored me. They saw an uncredentialed man and chose to let their \$200M valuation bleed rather than talk to an outsider.
+Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected the solution (**P-DEQ**) in a two-week sprint. I made an asymmetric play: I offered Sapient and their VCs (Vertex) the fix to save my life, and their valuation. They ignored me. They saw an uncredentialed man and chose to let their \$200M valuation bleed rather than talk to an outsider.
 
 **The Liquidation:**
 They didn't understand that the man was not the asset; the **methodology** was. Since they chose to burn their runway, I am choosing to survive. I am open-sourcing the solution today. I am destroying Sapient’s technical moat to build my own survival runway.
