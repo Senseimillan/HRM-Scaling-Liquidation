@@ -48,7 +48,17 @@ This whitepaper proposes a biomimetic and geometric solution: **Harmonic Limit-C
 
 The HRM processes complex algorithmic tasks by separating high-level abstract planning ($H$-module) from low-level execution ($L$-module). The forward pass iterates a low-level module rapidly, while a high-level module updates at a slower interval ($T_{H}$) via a strict `modulo` software trigger:
 
-$$ z_{i}^{H} = f_{H}(z_{i-1}^{H}, z_{i-1}^{L}; \theta_{H}) \quad \text{if } i \equiv 0 \pmod{T_{H}} $$
+$$
+z_{i}^{L} = f_{L}(z_{i-1}^{L}, z_{i-1}^{H}, x; \theta_{L})
+$$
+
+$$
+z_{i}^{H} = 
+\begin{cases}
+f_{H}(z_{i-1}^{H}, z_{i-1}^{L}; \theta_{H}) & \text{if } i \equiv 0 \pmod{T_{H}} \\
+z_{i-1}^{H} & \text{otherwise}
+\end{cases}
+$$
 
 At 27 million parameters, deep supervision can force this system to converge. However, at the 7B parameter frontier, the latent vector field becomes exponentially stiffer. Attempts to train the model result in the shattering of the Hessian matrix and the emergence of `NaN` gradients.
 
