@@ -241,3 +241,9 @@ The scaling collapse of the Hierarchical Reasoning Model is an unavoidable topol
 By re-architecting the latent space with **Continuous Harmonic Gating** and utilizing **Poincaré Deep Equilibrium (P-DEQ)**, we move from a chaotic impulsive system to a stable resonant limit-cycle. Because the stroboscopic transition matrix is governed by strictly bounded Floquet multipliers, the Jacobian is mathematically guaranteed to be well-conditioned. Furthermore, by projecting this continuous flow across a **Grid-Cell Topological Anchor**, we eliminate Representational Drift using continuous spatial periodicity, bypassing the gradient-shattering limitations of discrete lattice quantization.
 
 This dual architecture—mastering time via Stroboscopic Floquet cycles and mastering space via Grid-Cell anchors—provides a rigorous, first-principles blueprint for scaling hierarchical reasoning models to the billion-parameter frontier.
+
+---
+**License & Copyright**
+Copyright © 2026 Carl Boyer. All rights reserved.
+This work (The P-DEQ Specification and Grid-Cell Topological Anchoring framework) is licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE) file for details.
+---
