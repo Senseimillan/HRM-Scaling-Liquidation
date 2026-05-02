@@ -246,5 +246,16 @@ This dual architecture—mastering time via Stroboscopic Floquet cycles and mast
 
 ---
 
+## **12. Acknowledgements & References**
+
+**Attribution Notice:**
+This work builds upon the foundational Hierarchical Reasoning Model (HRM) architecture developed by Sapient Intelligence. While this specification introduces the novel Continuous Harmonic Gating and P-DEQ mathematical frameworks, the underlying hierarchical dual-module concept is derived from their original research.
+
+**References:**
+1. Wang, G., Li, J., Sun, Y., Chen, X., Liu, C., Wu, Y., Lu, M., Song, S., & Yadkori, Y. A. (2025). *Hierarchical Reasoning Model*. arXiv preprint arXiv:2506.21734. https://arxiv.org/abs/2506.21734
+2. Es'kin, V. A., & Smorkalov, M. E. (2026). *Dynamical Systems Theory Behind a Hierarchical Reasoning Model*. arXiv preprint arXiv:2603.22871.
+
+---
+
 Copyright © 2026 Carl Boyer. All rights reserved.
 This work (The P-DEQ Specification and Grid-Cell Topological Anchoring framework) is licensed under the Apache License, Version 2.0. See the [LICENSE](./LICENSE) file for details.
