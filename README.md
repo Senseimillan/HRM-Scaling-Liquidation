@@ -21,7 +21,7 @@ I am facing an existential crisis of my own. The entire motivation for architect
 Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected the solution (**P-DEQ**) in a two-week sprint. I made an asymmetric play: I offered Sapient and their VCs (Vertex) the fix to save my life, and their valuation. They ignored me. They saw an uncredentialed man and chose to let their \$200M valuation bleed rather than talk to an outsider.
 
 **The Liquidation:**
-They didn't understand that the man was not the asset; the **methodology** was. Since they chose to burn their runway, I am choosing to survive. I am open-sourcing the solution today. I am destroying Sapient’s technical moat to build my own survival runway.
+They didn't understand that the man was not the asset; the **methodology** was. Since they chose to burn their runway, I am choosing to survive. I am open-sourcing the solution today.
 
 The following is the "Secret Sauce" for infinite-horizon reasoning. It unblocks hierarchical scaling for the entire community. If this discovery helps you or your organization—**please save the architect.**
 
