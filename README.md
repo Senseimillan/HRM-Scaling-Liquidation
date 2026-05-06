@@ -12,7 +12,7 @@ I am not a PhD. I am a 42-year-old autodidact with a high-school education and a
 
 For nine months, **Sapient Intelligence**, a \$22M VC-backed AI lab, has been paralyzed. Their flagship architecture, the Hierarchical Reasoning Model (HRM), hit a terminal wall. At foundational scales (7B+), their model shatters. Public records (GitHub Issue #80) confirm `exact_accuracy 0`.
 
-Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected the solution (**P-DEQ**) in a two-week sprint.
+Using a process of **AI-assisted cross-domain synthesis**, I found their ghost. I diagnosed the failure and architected a solution (**P-DEQ**) in a two-week sprint.
 
 If this discovery helps you or your organization—**please support the architect.**
 
