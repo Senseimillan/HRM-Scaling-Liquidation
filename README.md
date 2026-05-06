@@ -8,7 +8,7 @@ If this discovery helps you or your organization—**please support the architec
 
 **Support:**
 
-- **Ko-fi (Prototype Fund Progress Bar(Not P-DEQ):**[https://ko-fi.com/senseimillan]
+- **Ko-fi (Prototype Fund Progress Bar (Not P-DEQ):**[https://ko-fi.com/senseimillan]
 - **GitHub Sponsors:**[https://github.com/sponsors/senseimillan]
 - **Solana:** `8qSz9HbQf4Rf2PTEhqUdw7WKDzcefcPdho3p7uGF2p9Y`
 - **Bitcoin:** `bc1p6cej680t4whthmp98uq7ypkm2wfnptmykdpy5x9l0x4szlqt4j5q0fryet`
